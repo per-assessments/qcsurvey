@@ -1,0 +1,64 @@
+file,also used at,LaTeX source
+Q02_alt_stem_1.png,,$\ket{\psi} = \ket{11}$
+Q03_stem_1.png,,\[ X = \begin{pmatrix} 0 & 1 \\ 1 & 0 \end{pmatrix} \qquad Z = \begin{pmatrix} 1 & 0 \\ 0 & -1 \end{pmatrix} \]
+Q03_stem_2.png,,$X \otimes Z$
+Q04_alt_stem_1.png,,$\ket{\phi}$
+Q04_alt_stem_2.png,,$\ket{\psi}$
+Q04_alt_row_i.png,,$\big(\bra{\psi} + \bra{\phi}\big)\big(\ket{\psi} - \ket{\phi}\big)$
+Q04_alt_row_ii.png,,$\ket{\phi} + \bra{\psi}$
+Q04_alt_row_iii.png,,$\bra{\phi} \otimes \bra{\psi}$
+Q04_alt_row_iv.png,,$\ket{\psi} + \ket{\phi}$
+Q04_alt_row_v.png,,$\braket{\psi|\phi}$
+Q05_stem_1.png,Q05_opt_a_1; Q05_opt_b_1; Q05_opt_d_1,$\ket{\psi_1}$
+Q05_stem_2.png,Q05_opt_a_2; Q05_opt_c_1; Q05_opt_d_2,$\ket{\psi_2}$
+Q05_stem_3.png,Q05_opt_b_2; Q05_opt_c_2; Q05_opt_d_3,$\ket{\psi_3}$
+Q05_stem_4.png,,\begin{align*} \ket{\psi_1} &= \frac{1}{\sqrt{2}}\Big(\ket{0} + \ket{1}\Big) \\ \ket{\psi_2} &= \frac{1}{\sqrt{2}}\Big(\ket{0} - \ket{1}\Big) \\ \ket{\psi_3} &= \frac{1}{\sqrt{2}}\Big(-\ket{0} + \ket{1}\Big) \end{align*}
+Q07_stem_1.png,,\[ \ket{\psi} = \frac{1}{\sqrt{3}}\Big(\ket{00} + \ket{01} + \ket{11}\Big) \]
+Q07_i_stem_1.png,Q07_ii_stem_1,$\ket{\psi}$
+Q07_ii_stem_1.png,,$\ket{\psi} = \ket{\phi_1} \otimes \ket{\phi_2}$
+Q09_alt1_stem_1.png,,\[ \begin{pmatrix} a \\ b \end{pmatrix} + \begin{pmatrix} c \\ d \\ e \\ f \end{pmatrix} \]
+Q09_alt2_stem_1.png,,\[ \begin{pmatrix} a \\ b \end{pmatrix} \otimes \begin{pmatrix} c \\ d \end{pmatrix} \]
+Q10_stem_1.png,,\[ \ket{\psi} = \frac{1}{\sqrt{3}}\Big(\ket{00} + \ket{01} - \ket{11}\Big) \]
+Q10_stem_2.png,,$\ket{1}$
+Q10_opt_a.png,,$0$
+Q10_opt_b.png,,$1/3$
+Q10_opt_c.png,,$2/3$
+Q10_opt_d.png,,$1/2$
+Q10_opt_e.png,,$1/\sqrt{3}$
+Q10_opt_f.png,,$2/\sqrt{3}$
+Q12_stem_1.png,,\[ \ket{\psi} = \frac{1}{\sqrt{2}}\Big(\ket{011} - \ket{101}\Big) \]
+Q13_stem_1.png,Q13_stem_5,$Z \otimes H$
+Q13_stem_2.png,,\[ Z = \begin{pmatrix} 1 & 0 \\ 0 & -1 \end{pmatrix} \qquad H = \frac{1}{\sqrt{2}}\begin{pmatrix} 1 & 1 \\ 1 & -1 \end{pmatrix} \]
+Q15_alt_stem_1.png,,\[ \ket{\psi} = \frac{1}{\sqrt{2}}\Big(\ket{00} + \ket{11}\Big) \]
+Q15_alt_i_opt_a.png,Q15_alt_ii_stem_1; Q15_alt_ii_opt_a,$\ket{0}$
+Q15_alt_i_opt_b.png,Q15_alt_ii_opt_b,$\ket{00}$
+Q15_alt_i_opt_c.png,Q15_alt_ii_opt_c,$\dfrac{1}{\sqrt{2}}\big(\ket{0}+\ket{1}\big)$
+Q17_alt1_stem_1.png,,$\ket{\psi}$
+Q17_alt1_stem_2.png,,"\begin{center} \begin{quantikz}[ arrow style=tikz, >=Straight Barb ] \lstick{$\ket{0}$} & \gate{U} [-0.5cm] \arrow[r, shorten >=-1pt] & \rstick{$\ket{\psi}$} \end{quantikz} \end{center}"
+Q17_alt1_opt_a.png,,$\ket{\psi} = U \ket{0}$
+Q17_alt1_opt_b.png,,$\ket{0} = U\ket{\psi}$
+Q17_alt1_opt_c.png,,$\ket{\psi} = \ket{0} U$
+Q17_alt1_opt_d.png,,$\ket{0} = \ket{\psi} U$
+Q17_alt1_opt_e.png,,$\ket{\psi} = \braket{0|U|0}$
+Q18_alt_stem_1.png,,\[ \ket{\psi} = \frac{1}{\sqrt{2}}\Big(\ket{000} + \ket{011}\Big) \]
+Q18_alt_opt_a.png,,$\ket{\psi}_{q_1 q_2} = \dfrac{1}{\sqrt{2}}\Big(\ket{00} + \ket{01}\Big)$
+Q18_alt_opt_b.png,,$\ket{\psi}_{q_2 q_3} = \dfrac{1}{\sqrt{2}}\Big(\ket{00} + \ket{11}\Big)$
+Q18_alt_opt_c.png,,$\ket{\psi}_{q_1 q_3} = \dfrac{1}{\sqrt{2}}\Big(\ket{00} + \ket{01}\Big)$
+Q19_stem_1.png,Q19_opt_f_1,$\ket{\psi_1}$
+Q19_stem_2.png,Q19_opt_f_2,$\ket{\psi_2}$
+Q19_stem_3.png,,\ket{\psi_1} = \frac{1}{\sqrt{2}}\begin{pmatrix}1\\1\end{pmatrix}
+Q19_stem_4.png,,\ket{\psi_2} = \frac{1}{\sqrt{3}}\begin{pmatrix}1\\0\\1\\-1\end{pmatrix}
+Q19_stem_5.png,,$\ket{\psi_1} \otimes \ket{\psi_2}$
+Q20_alt1_stem_1.png,,\[ \ket{\psi} = \frac{1}{\sqrt{2}}\Big(\ket{0} + \ket{1}\Big) \]
+Q20_alt1_stem_2.png,,$\ket{\psi}$
+Q20_alt1_stem_3.png,,$\braket{\phi|\psi}=0$
+Q20_alt1_opt_a.png,,$\ket{\phi_a} = \ket{1}$
+Q20_alt1_opt_b.png,,$\ket{\phi_b} = \dfrac{1}{\sqrt{2}}\Big(\ket{0} + \ket{1}\Big)$
+Q20_alt1_opt_c.png,,$\ket{\phi_c} = \dfrac{1}{\sqrt{2}}\Big(\ket{0} -\ket{1}\Big)$
+Q20_alt1_opt_d.png,,$\ket{\phi_d} = \dfrac{1}{\sqrt{2}}\Big(\ket{1} - \ket{0}\Big)$
+Q20_alt1_opt_e.png,,$\ket{\phi_e} = -\dfrac{1}{\sqrt{2}}\Big(\ket{0} + \ket{1}\Big)$
+Q20_alt2_stem_1.png,,\[ v= \begin{pmatrix} 1 \\ i \end{pmatrix} \]
+Q20_alt2_opt_a.png,,$\begin{pmatrix} 1 \\ i \end{pmatrix}$
+Q20_alt2_opt_b.png,,$\begin{pmatrix} 1 \\ -i \end{pmatrix}$
+Q20_alt2_opt_c.png,,$\begin{pmatrix} i \\ 1 \end{pmatrix}$
+Q20_alt2_opt_d.png,,$\begin{pmatrix} i \\ -1 \end{pmatrix}$
